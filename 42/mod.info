@@ -1,0 +1,5 @@
+name=VHS Highlighter
+id=VHSHighlighter
+description=Resalta cassettes VHS en el inventario con colores según la skill que enseñan. Compatible con B42.
+modversion=1.1
+pzversion=42
